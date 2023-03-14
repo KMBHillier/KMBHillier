@@ -4,7 +4,12 @@
 - 🏫 Currently working with Xander Talent as a Software Engineer Consultant
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on any basic projects which will help me learn more.
-- 📫 How to reach me - Drop me a line on here or anywhere you can find me!
+- 📫 Drop me a line on here or anywhere you can find me, I'm always open to new projects and collaborations
+- ⛳ Fun fact: I love playing and watching golf!
+
+I began my coding journey in November 2022 when I decided to make a career change and enter the engineering space. I then went on to complete the HyperionDev Software Engineering Bootcamp where I finished in the top 10% with an average grade of 99%! Following this I joined Xander Talent to begin my career as a Software Engineering Consultant.
+
+My biggest draw to this line of work is problem solving. I enjoy the challenge and grind of figuring out what's wrong with a piece of code and working hard to fix it. My friends would describe me as loyal and passionate, and I endeavour to bring those traits into the workplace.
 
 <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
   <br>
