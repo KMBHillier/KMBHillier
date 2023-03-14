@@ -14,6 +14,10 @@ My biggest draw to this line of work is problem solving. I enjoy the challenge a
 <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
   <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMBHillier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![stats](https://github-readme-stats.vercel.app/api?username=KMBHillier&show_icons=true&&count_private=true&include_all_commits=true)
+
 ## Languages and Tools I'm Using
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>&nbsp;
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="HTML5 Logo" width="40" height="40"></a>&nbsp;
